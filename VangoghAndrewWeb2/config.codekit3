@@ -9,6 +9,18 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
+    "\/deploy\/css\/styles-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/css\/styles-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -30,6 +42,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/0 footer\/vangogh logo.png" : {
+      "ft" : 32768,
+      "iS" : 338414,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/0 footer\/vangogh logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -99,6 +124,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/3 Influenced by Vangogh\/back.jpg" : {
+      "ft" : 16384,
+      "iS" : 1172454,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/3 Influenced by Vangogh\/back.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/3 Influenced by Vangogh\/w influenced 1.jpg" : {
       "ft" : 16384,
       "iS" : 11156834,
@@ -118,19 +156,6 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/3 Influenced by Vangogh\/w influenced 2.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/3 Influenced by Vangogh\/w influenced background.jpg" : {
-      "ft" : 16384,
-      "iS" : 1172454,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/3 Influenced by Vangogh\/w influenced background.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -315,7 +340,23 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 0
     },
-    "\/dev\/content\/1 hero.kit" : {
+    "\/dev\/content\/1Hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/1Hero.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/2TheEra.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/2TheEra.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/3Influenced.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
@@ -323,7 +364,7 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 3
     },
-    "\/dev\/content\/2 the era.kit" : {
+    "\/dev\/content\/4VangoghSeries.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
@@ -331,23 +372,7 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 3
     },
-    "\/dev\/content\/3 Influenced.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 3
-    },
-    "\/dev\/content\/4 Vangogh Series.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 3
-    },
-    "\/dev\/content\/5 Iconic Artworks.kit" : {
+    "\/dev\/content\/5IconicArtworks.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
@@ -554,7 +579,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_1hero.scss" : {
+    "\/dev\/scss\/sections\/_1Hero.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -562,7 +587,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_1hero.css",
+      "oAP" : "\/dev\/scss\/sections\/_1Hero.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -623,6 +648,18 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/dev\/scss\/styles.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/scss\/styles-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/dev\/scss\/styles.scss" : {
       "aP" : 0,
